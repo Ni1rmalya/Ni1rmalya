@@ -6,6 +6,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" alt="Coder GIF" width="600"/>
+</p>
+
 
 - <H3>🌱 I’m currently learning **Microservices, Spring Boot, and TDD**
 - <H3>👨‍💻 All of my projects are available on [GitHub](https://github.com/ni1rmalya)
