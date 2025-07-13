@@ -96,6 +96,12 @@
 </p>
 
 ---
+<h2> 💡💡 Random Dev Quote 💡💡
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" />
+</p>
+--------
 
 <H2>### 🌐 Connect with Me
 
