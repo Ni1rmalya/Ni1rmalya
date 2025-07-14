@@ -69,7 +69,7 @@
 
 <h2>## 🧰 Software
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>
+<img src="https://www.citypng.com/public/uploads/preview/adobe-photoshop-ps-square-logo-icon-png-7017516947730275g1pkunbfs.png" width="50" height="50"/>
   &nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
   &nbsp;
@@ -80,7 +80,8 @@
 
 <h2>## 🎮 Game Engines
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="50" height="50"/>
+<img src="https://www.citypng.com/public/uploads/preview/hd-unreal-engine-white-logo-icon-png-7017516949697958pnkct2kiz.png" alt="Unreal Engine" width="50" height="50"/>
+
 </p>
 
 <h2>## 🔧 Version Control
