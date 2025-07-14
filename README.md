@@ -16,23 +16,28 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="600"/>
 </p>
 
-
-### 🌱 I’m currently learning
-- **Microservices, Spring Boot, and TDD**
-
-### 👨‍💻 All of my projects are available on
-- [GitHub](https://github.com/ni1rmalya)
-
-### 💬 Ask me about
-- **Java, Spring Boot, SQL, Frontend, Cybersecurity**
-
-### 📢 Reach me at:
-- [LinkedIn](https://www.linkedin.com/in/nirmalya-chakraborty-4b98ba257/)
-
-### 🧠 Portfolio
-- *Coming Soon*
-
----
+<table align="center">
+  <tr>
+    <td><strong>🌱 I’m currently learning:</strong></td>
+    <td>Microservices, Spring Boot, and TDD</td>
+  </tr>
+  <tr>
+    <td><strong>👨‍💻 All of my projects are available on:</strong></td>
+    <td><a href="https://github.com/ni1rmalya" target="_blank">GitHub</a></td>
+  </tr>
+  <tr>
+    <td><strong>💬 Ask me about:</strong></td>
+    <td>Java, Spring Boot, SQL, Frontend, Cybersecurity</td>
+  </tr>
+  <tr>
+    <td><strong>📢 Reach me at:</strong></td>
+    <td><a href="https://www.linkedin.com/in/nirmalya-chakraborty-4b98ba257/" target="_blank">LinkedIn</a></td>
+  </tr>
+  <tr>
+    <td><strong>🧠 Portfolio:</strong></td>
+    <td><em>Coming Soon</em></td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
