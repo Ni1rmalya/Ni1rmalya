@@ -10,95 +10,91 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="600"/>
 </p>
 
-
 - <H3>🌱 I’m currently learning **Microservices, Spring Boot, and TDD**
 - <H3>👨‍💻 All of my projects are available on [GitHub](https://github.com/ni1rmalya)
 - <H3>💬 Ask me about **Java, Spring Boot, SQL, Frontend, Cybersecurity**
-- <H3>📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/nirmalya-chakraborty-4b98ba257/)
+- <H3>📢 Reach me at: [LinkedIn](https://www.linkedin.com/in/nirmalya-chakraborty-4b98ba257/)
 - <H3>🧠 Portfolio: *Coming Soon*
 
 ---
 
+<h1>### 🛠️ Tech Stack</h1>
 
-<h1> ### 🛠️ Tech Stack
-
-<h2>## 👨‍💻 Programming Languages
+<h2>## 👨‍💻 Programming Languages</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/></a>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
 </p>
 
-<h2>## 🌐 Frontend Development
+<h2>## 🌐 Frontend Development</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/></a>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/></a>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
 </p>
 
-<h2>## 🖥️ Backend Development
+<h2>## 🖥️ Backend Development</h2>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50"/>
-
-
-<h2>## 🤖 AI / Machine Learning
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50"/></a>
 </p>
 
-<h2>## 🗄️ Database
+<h2>## 🤖 AI / Machine Learning</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
   &nbsp;
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/></a>
 </p>
 
-<h2>## 🚀 DevOps
+<h2>## 🗄️ Database</h2>
 <p align="center">
- 
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" width="50" height="50"/>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/></a>
+  &nbsp;
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/></a>
 </p>
 
-<h2>## 🧰 Software
+<h2>## 🚀 DevOps</h2>
 <p align="center">
-<img src="https://www.citypng.com/public/uploads/preview/adobe-photoshop-ps-square-logo-icon-png-7017516947730275g1pkunbfs.png" width="50" height="50"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-  &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50"/>
+  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" width="50" height="50"/></a>
 </p>
 
-<h2>## 🎮 Game Engines
+<h2>## 🧰 Software</h2>
 <p align="center">
-<img src="https://www.citypng.com/public/uploads/preview/hd-unreal-engine-white-logo-icon-png-7017516949697958pnkct2kiz.png" alt="Unreal Engine" width="50" height="50"/>
-
-</p>
-
-<h2>## 🔧 Version Control
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://www.citypng.com/public/uploads/preview/adobe-photoshop-ps-square-logo-icon-png-7017516947730275g1pkunbfs.png" width="50" height="50"/></a>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="50" height="50"/>
+  <a href="https://www.figma.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/></a>
+  &nbsp;
+  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/></a>
+  &nbsp;
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50"/></a>
 </p>
 
-<h2>## 💻 Operating System
+<h2>## 🎮 Game Engines</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <a href="https://www.unrealengine.com" target="_blank"><img src="https://www.citypng.com/public/uploads/preview/hd-unreal-engine-white-logo-icon-png-7017516949697958pnkct2kiz.png" alt="Unreal Engine" width="50" height="50"/></a>
+</p>
+
+<h2>## 🔧 Version Control</h2>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
+  &nbsp;
+  <a href="https://github.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="50" height="50"/></a>
+</p>
+
+<h2>## 💻 Operating System</h2>
+<p align="center">
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
 </p>
 
 ---
 
-<h2 align="center">### 💡✨ Random Dev Quote ✨💡
+<h2 align="center">### 💡✨ Random Dev Quote ✨💡</h2>
 
 <p align="center">
   <img 
@@ -108,10 +104,9 @@
   />
 </p>
 
-
 --------
 
-<H2>### 🌐 Connect with Me
+<H2>### 🌐 Connect with Me</H2>
 
 <p align="center">
   <a href="https://linkedin.com/in/nirmalya-chakraborty-4b98ba257" target="blank">
@@ -125,7 +120,7 @@
 
 ---
 
-<H2>### 📈 GitHub Stats
+<H2>### 📈 GitHub Stats</H2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ni1rmalya&theme=algolia" alt="Streak Stats"/>
