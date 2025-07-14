@@ -115,7 +115,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/nirmalya-chakraborty-4b98ba257" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/ni1rmalya" target="blank">
