@@ -1,12 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0CECDD&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nirmalya+Chakraborty" alt="Typing SVG" />
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=System.out.println('Hello+World');Coding+Java,+Python,+JS...;public+class+Nirmalya+%7B+Code+Is+Life+%7D;Happy+Coding+👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=20&pause=1000&color=00ff00&center=true&vCenter=true&width=600&lines=💻+A+passionate+DEVELOPER+from+India...;🧠+Lifelong+Learner+%26+Problem+Solver;🔐+Java+%7C+Spring+Boot+%7C+Web+Dev+%7C+Cybersecurity" alt="Typing SVG" />
 </p>
-
-
 
 <p align="center">
   <a href="https://github.com/ni1rmalya">
