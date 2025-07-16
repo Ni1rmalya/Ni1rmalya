@@ -4,18 +4,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=20&pause=1000&color=00ff00&center=true&vCenter=true&width=600&lines=💻+A+passionate+DEVELOPER+from+India...;🧠+Lifelong+Learner+%26+Problem+Solver;🔐+Java+%7C+Spring+Boot+%7C+Web+Dev+%7C+Cybersecurity" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <a href="https://github.com/ni1rmalya">
     <img src="https://img.shields.io/badge/GitHub-ni1rmalya-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ni1rmalya&label=Profile+Views&color=1DA1F2&style=for-the-badge" alt="Profile views"/>
 </p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="600"/>
 </p>
-
 <table align="center">
   <tr>
     <td><strong>🌱 I’m currently learning:</strong></td>
@@ -48,36 +45,30 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/></a>
 </p>
-
 ### 🌐 Frontend Development
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/></a>
 </p>
-
 ### 🖥️ Backend Development
 <p align="center">
   <a href="https://spring.io/projects/spring-boot"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="50"/></a>
 </p>
-
 ### 🤖 AI / Machine Learning
 <p align="center">
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/></a>
   <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/></a>
 </p>
-
 ### 🗄️ Database
 <p align="center">
   <a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50"/></a>
 </p>
-
 ### 🚀 DevOps
 <p align="center">
   <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="50" height="50"/></a>
 </p>
-
 ### 🧰 Software
 <p align="center">
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://www.citypng.com/public/uploads/preview/adobe-photoshop-ps-square-logo-icon-png-7017516947730275g1pkunbfs.png" width="50" height="50"/></a>
@@ -85,18 +76,15 @@
   <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50"/></a>
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" height="50"/></a>
 </p>
-
 ### 🎮 Game Engines
 <p align="center">
   <a href="https://www.unrealengine.com"><img src="https://www.citypng.com/public/uploads/preview/hd-unreal-engine-white-logo-icon-png-7017516949697958pnkct2kiz.png" width="50" height="50"/></a>
 </p>
-
 ### 🔧 Version Control
 <p align="center">
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/></a>
   <a href="https://github.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="50" height="50"/></a>
 </p>
-
 ### 💻 Operating System
 <p align="center">
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/></a>
