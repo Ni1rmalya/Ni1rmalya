@@ -37,6 +37,7 @@
 </table>
 
 ## 🛠️ Tech Stack
+<hr>
 
 ### 👨‍💻 Programming Languages
 <p align="center">
@@ -45,30 +46,46 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/></a>
 </p>
+<hr>
+
 ### 🌐 Frontend Development
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/></a>
 </p>
+<hr>
+
 ### 🖥️ Backend Development
 <p align="center">
   <a href="https://spring.io/projects/spring-boot"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="50"/></a>
 </p>
+<hr>
+
+
 ### 🤖 AI / Machine Learning
 <p align="center">
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/></a>
   <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/></a>
 </p>
+<hr>
+
+
 ### 🗄️ Database
 <p align="center">
   <a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50"/></a>
 </p>
+<hr>
+
+
 ### 🚀 DevOps
 <p align="center">
   <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="50" height="50"/></a>
 </p>
+<hr>
+
+
 ### 🧰 Software
 <p align="center">
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://www.citypng.com/public/uploads/preview/adobe-photoshop-ps-square-logo-icon-png-7017516947730275g1pkunbfs.png" width="50" height="50"/></a>
@@ -76,15 +93,26 @@
   <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50"/></a>
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" height="50"/></a>
 </p>
+<hr>
+
+
 ### 🎮 Game Engines
 <p align="center">
   <a href="https://www.unrealengine.com"><img src="https://www.citypng.com/public/uploads/preview/hd-unreal-engine-white-logo-icon-png-7017516949697958pnkct2kiz.png" width="50" height="50"/></a>
 </p>
+<hr>
+
+
+
 ### 🔧 Version Control
 <p align="center">
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/></a>
   <a href="https://github.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="50" height="50"/></a>
 </p>
+<hr>
+
+
+
 ### 💻 Operating System
 <p align="center">
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/></a>
@@ -92,7 +120,7 @@
 
 ---
 
-<h2 align="center">💡✨ Random Dev Quote ✨💡</h2>
+<h1 align="center">|| 💡✨ Random Dev Quote ✨💡 ||</h1>
 <p align="center">
   <img 
     src="https://readme-jokes.vercel.app/api?theme=nightowl&hideBorder=false&borderColor=%2300FF00&codeColor=%231E1E1E&titleColor=%23FFDD00" 
