@@ -1,6 +1,6 @@
 <!-- Friendly Vibes: Greeting + Bio -->
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=30&pause=1000&color=0CECDD&center=true&vCenter=true&width=1000&lines=👋+Hi%2C+I'm+Nirmalya+Chakraborty+🤠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=30&pause=10000&color=0CECDD&center=true&vCenter=true&width=1000&lines=👋+Hi%2C+I'm+Nirmalya+Chakraborty+🤠" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=20&pause=1000&color=fa5062&center=true&vCenter=true&width=1000&lines=💫+A+passionate+DEVELOPER+from+India...;🌱+Lifelong+Learner+%26+Problem+Solver..👨‍💻;💻+Java+☕+%7C+Spring+Boot+🌿+%7C+Web+Dev+🌐+%7C+Cybersecurity+🛡️" alt="Typing SVG" />
